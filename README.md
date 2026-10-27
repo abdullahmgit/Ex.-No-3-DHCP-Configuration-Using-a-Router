@@ -62,10 +62,13 @@ Router(dhcp-config)# dns-server 8.8.8.8<br>
 Router(dhcp-config)# exit<br>
 ________________________________________
 # Output (Screenshots)
+<img width="1917" height="1071" alt="Screenshot 2026-10-27 160627" src="https://github.com/user-attachments/assets/7bc3ea5d-a7b9-4a69-9425-d90c934ca215" />
 <img width="1920" height="1080" alt="Screenshot 2026-10-24 104712" src="https://github.com/user-attachments/assets/fae6f08e-ee4b-4f0d-8f95-5de57c029266" />
+<img width="1912" height="1076" alt="Screenshot 2026-10-27 160736" src="https://github.com/user-attachments/assets/8bf4f641-5bdf-45ab-b8e1-83b8d6b20d19" />
 <img width="1920" height="1080" alt="Screenshot 2026-10-24 105003" src="https://github.com/user-attachments/assets/e128d44d-0e45-4c75-b015-6ded560f6d20" />
 <img width="1920" height="1080" alt="Screenshot 2026-10-24 105324" src="https://github.com/user-attachments/assets/f26c48c8-6b28-4b56-83ca-5e01a9a20784" />
 <img width="1917" height="1076" alt="Screenshot 2026-10-24 105546" src="https://github.com/user-attachments/assets/690d8c2e-23c3-497b-84bb-36baed12c4c8" />
+<img width="907" height="900" alt="Screenshot 2026-10-27 161010" src="https://github.com/user-attachments/assets/a4c6445c-b5c8-49fb-8cff-610d06698c5f" />
 
 ________________________________________
 # Result
